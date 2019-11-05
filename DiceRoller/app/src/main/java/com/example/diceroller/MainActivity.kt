@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun rollDice() {
-
         diceImage.setImageResource(getRandomDiceImage())
         diceImage2.setImageResource(getRandomDiceImage())
 
