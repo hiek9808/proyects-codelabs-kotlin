@@ -4899,7 +4899,10 @@ public final class R {
     public static final int abc_action_bar_embed_tabs=0x7f040000;
     public static final int abc_allow_stacked_button_bar=0x7f040001;
     public static final int abc_config_actionMenuItemAllCaps=0x7f040002;
-    public static final int mtrl_btn_textappearance_all_caps=0x7f040003;
+    public static final int enable_system_alarm_service_default=0x7f040003;
+    public static final int enable_system_job_service_default=0x7f040004;
+    public static final int mtrl_btn_textappearance_all_caps=0x7f040005;
+    public static final int workmanager_test_configuration=0x7f040006;
   }
   public static final class color {
     public static final int abc_background_cache_hint_selector_material_dark=0x7f050000;
@@ -20011,28 +20014,7 @@ public final class R {
      * <p>This symbol is the offset where the {@link android.R.attr#textFontWeight}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
      * <p>May be an integer value, such as "<code>100</code>".
-     * <p>May be a boolean value, such as "<code>true</code>" or
-     * "<code>false</code>".
-     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
-     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
-     * "<code>#<i>aarrggbb</i></code>".
-     * <p>May be a floating point value, such as "<code>1.2</code>".
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     * <p>May be a fractional value, which is a floating point number appended with
-     * either % or %p, such as "<code>14.5%</code>".
-     * The % suffix always means a percentage of the base size;
-     * the optional %p suffix provides a size relative to some parent container.
      *
      * @attr name android:textFontWeight
      */

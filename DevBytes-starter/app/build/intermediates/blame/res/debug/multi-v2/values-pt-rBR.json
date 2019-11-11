@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Kervin\\android-kotlin-fundamentals-starter-apps-master\\DevBytes-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "outputFile": "C:\\Users\\Kervin\\codelabsProyectsKotlin\\DevBytes-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kervin\\.gradle\\caches\\transforms-2\\files-2.1\\550f24d28d60c08a2754ec204ba10f37\\jetified-navigation-ui-1.0.0\\res\\values-pt-rBR\\values-pt-rBR.xml",

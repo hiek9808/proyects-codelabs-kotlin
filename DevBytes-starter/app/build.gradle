@@ -21,11 +21,12 @@ apply plugin: "androidx.navigation.safeargs"
 apply plugin: 'kotlin-android-extensions'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 29
     defaultConfig {
         applicationId "com.example.android.devbyteviewer"
         minSdkVersion 19
-        targetSdkVersion 28
+        targetSdkVersion 29
+        multiDexEnabled true
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -40,6 +41,15 @@ android {
 
     dataBinding {
         enabled = true
+    }
+
+    compileOptions {
+        sourceCompatibility = 1.8
+        targetCompatibility = 1.8
+    }
+
+    kotlinOptions {
+        jvmTarget = "1.8"
     }
 
 }
@@ -94,5 +104,14 @@ dependencies {
     // glide for images
     implementation 'com.github.bumptech.glide:glide:4.10.0'
     kapt 'com.github.bumptech.glide:compiler:4.7.1'
+
+    // Room dependency
+    def room_version = "2.2.1"
+    implementation "androidx.room:room-runtime:$room_version"
+    kapt "androidx.room:room-compiler:$room_version"
+
+    // WorkManager dependency
+    def work_version = "2.2.0"
+    implementation "androidx.work:work-runtime-ktx:$work_version"
 
 }

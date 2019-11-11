@@ -1,11 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
 MERGED from [androidx.databinding:databinding-adapters:3.5.2] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\d432119ca7e6cc7541b3ad90c87de2ce\databinding-adapters-3.5.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:3.5.2] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\3c953f0de603c456bcc4eab3a7a713e4\databinding-runtime-3.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\b3717a026b8dd905708bc8e53939c136\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\e0313e89b7ab91c7b0e17a8d9bd259da\jetified-navigation-ui-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\550f24d28d60c08a2754ec204ba10f37\jetified-navigation-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\94681c21c7a53b26c222a3b57b2f776b\material-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -14,9 +15,12 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kervin\.gradle\ca
 MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\4d0f6554e41fba35bf4c865b664f9ac5\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\0195cd2a14cf10960cd88f59ead337cd\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\7da35de66f0cd70ddd8f86f2b507b967\jetified-navigation-fragment-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime-ktx:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\e9eadb5bc7648fe0010db676ef8e00df\work-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\3bf8fa44d211668b720688c916c823e2\lifecycle-extensions-2.2.0-rc02\AndroidManifest.xml:17:1-27:12
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\2716f27733a0c4a4faf5ca32c0d5d753\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\222f9649da2b8c68bfd76090af92703e\glide-4.10.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:17:1-125:12
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\f3fef507c2c62013b75816faca151a03\room-runtime-2.2.1\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a5e9ed47a08990389b81362448d2879a\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\6c7413a2663c0797394aef3d7af2cf5a\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\d139708551d31b6d14c0e6beb2117513\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -54,35 +58,37 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kervin\.gradle\cach
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\82538c78a1cd91cd3a728d44286622fc\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\6ee868284ed667b1441fbf6ac2be484c\lifecycle-viewmodel-2.2.0-rc02\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\d79c771e984a805acc9eb456ff62a3dd\gifdecoder-4.10.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\598bf19d5bb06d18a73d5c1bd9166719\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\c74e4d43b4a8b0c7438ab1bd132f53d9\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\d5037d98e388278d35ca58e2416ec630\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\0acf224987b75d5bb6e4d9ec636e52a5\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\fe9688849895fabdfe8f161d6110fe2f\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\8d32be231e8b83b89f4ef89cc68f823b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
 	package
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:20:5-48
-		INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:20:5-48
+		INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
-		INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:19:5-51
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:19:5-51
 	android:versionCode
-		INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
-		INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:18:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:22:5-67
+ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:22:5-67
 	android:name
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:22:22-64
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:22:22-64
 application
-ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:24:5-40:19
+ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:24:5-40:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\94681c21c7a53b26c222a3b57b2f776b\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\94681c21c7a53b26c222a3b57b2f776b\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\0195cd2a14cf10960cd88f59ead337cd\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -93,6 +99,10 @@ MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Kervin\.gradle\caches
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\2716f27733a0c4a4faf5ca32c0d5d753\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
 MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\222f9649da2b8c68bfd76090af92703e\glide-4.10.0\AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\222f9649da2b8c68bfd76090af92703e\glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:29:5-123:19
+MERGED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:29:5-123:19
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\f3fef507c2c62013b75816faca151a03\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\f3fef507c2c62013b75816faca151a03\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
 MERGED from [androidx.core:core:1.1.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\85fe9af11ab1d3f191bfea5a96d8117e\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\85fe9af11ab1d3f191bfea5a96d8117e\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\72e3f78aca6f02365f88bb6cb7ec42b3\lifecycle-process-2.2.0-rc02\AndroidManifest.xml:24:5-30:19
@@ -104,43 +114,45 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\Kervin\.gradl
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\85fe9af11ab1d3f191bfea5a96d8117e\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:30:9-35
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:30:9-35
 	android:label
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:28:9-41
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:28:9-41
 	tools:ignore
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:32:9-48
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:32:9-48
 	android:roundIcon
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:29:9-54
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:29:9-54
 	android:icon
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:27:9-43
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:27:9-43
 	android:allowBackup
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:26:9-35
 	android:theme
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:31:9-40
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:31:9-40
 	android:name
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:25:9-43
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:25:9-43
 activity#com.example.android.devbyteviewer.ui.DevByteActivity
-ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:33:9-39:20
+ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:33:9-39:20
 	android:name
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:33:19-53
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:33:19-53
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:34:13-38:29
+ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:35:17-69
+ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:35:25-66
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:37:17-77
+ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:37:27-74
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml:37:27-74
 uses-sdk
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:3.5.2] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\d432119ca7e6cc7541b3ad90c87de2ce\databinding-adapters-3.5.2\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-adapters:3.5.2] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\d432119ca7e6cc7541b3ad90c87de2ce\databinding-adapters-3.5.2\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:3.5.2] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\3c953f0de603c456bcc4eab3a7a713e4\databinding-runtime-3.5.2\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:3.5.2] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\3c953f0de603c456bcc4eab3a7a713e4\databinding-runtime-3.5.2\AndroidManifest.xml:22:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\b3717a026b8dd905708bc8e53939c136\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\b3717a026b8dd905708bc8e53939c136\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\e0313e89b7ab91c7b0e17a8d9bd259da\jetified-navigation-ui-ktx-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\e0313e89b7ab91c7b0e17a8d9bd259da\jetified-navigation-ui-ktx-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\550f24d28d60c08a2754ec204ba10f37\jetified-navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
@@ -157,12 +169,18 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kervin\.
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\0195cd2a14cf10960cd88f59ead337cd\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\7da35de66f0cd70ddd8f86f2b507b967\jetified-navigation-fragment-ktx-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\7da35de66f0cd70ddd8f86f2b507b967\jetified-navigation-fragment-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\e9eadb5bc7648fe0010db676ef8e00df\work-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\e9eadb5bc7648fe0010db676ef8e00df\work-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\3bf8fa44d211668b720688c916c823e2\lifecycle-extensions-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\3bf8fa44d211668b720688c916c823e2\lifecycle-extensions-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\2716f27733a0c4a4faf5ca32c0d5d753\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\2716f27733a0c4a4faf5ca32c0d5d753\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
 MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\222f9649da2b8c68bfd76090af92703e\glide-4.10.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\222f9649da2b8c68bfd76090af92703e\glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\f3fef507c2c62013b75816faca151a03\room-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\f3fef507c2c62013b75816faca151a03\room-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a5e9ed47a08990389b81362448d2879a\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a5e9ed47a08990389b81362448d2879a\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\6c7413a2663c0797394aef3d7af2cf5a\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
@@ -237,6 +255,10 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] C:\Users\Kervin\
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\6ee868284ed667b1441fbf6ac2be484c\lifecycle-viewmodel-2.2.0-rc02\AndroidManifest.xml:20:5-22:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\d79c771e984a805acc9eb456ff62a3dd\gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\d79c771e984a805acc9eb456ff62a3dd\gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\598bf19d5bb06d18a73d5c1bd9166719\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\598bf19d5bb06d18a73d5c1bd9166719\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\c74e4d43b4a8b0c7438ab1bd132f53d9\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\c74e4d43b4a8b0c7438ab1bd132f53d9\sqlite-2.0.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\d5037d98e388278d35ca58e2416ec630\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\d5037d98e388278d35ca58e2416ec630\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\0acf224987b75d5bb6e4d9ec636e52a5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
@@ -245,16 +267,214 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Kervin\.gradle\caches\transfor
 MERGED from [androidx.print:print:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\fe9688849895fabdfe8f161d6110fe2f\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\8d32be231e8b83b89f4ef89cc68f823b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\8d32be231e8b83b89f4ef89cc68f823b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kervin\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kervin\codelabsProyectsKotlin\DevBytes-starter\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:27:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:30:9-36:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:32:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:35:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:34:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:31:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:38:9-43:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:42:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:43:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:39:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:44:9-50:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:47:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:48:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:49:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:50:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:45:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:55:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:53:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:58:9-68:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:61:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:62:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:63:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:59:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:64:13-67:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:65:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:65:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:66:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:66:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:69:9-79:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:72:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:73:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:74:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:71:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:70:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:75:13-78:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:76:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:77:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:80:9-90:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:83:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:84:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:85:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:81:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:86:13-89:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:87:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:87:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:88:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:88:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:91:9-100:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:94:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:95:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:96:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:92:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:97:13-99:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:98:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:98:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:101:9-112:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:104:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:105:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:106:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:103:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:102:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:107:13-111:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:108:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:108:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:109:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:109:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:110:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:110:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:113:9-122:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:116:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:117:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:118:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:115:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:114:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:119:13-121:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:120:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\a01d0ff9841371f1184e5360e9711b6b\work-runtime-2.2.0\AndroidManifest.xml:120:25-95
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\f3fef507c2c62013b75816faca151a03\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\f3fef507c2c62013b75816faca151a03\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\f3fef507c2c62013b75816faca151a03\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] C:\Users\Kervin\.gradle\caches\transforms-2\files-2.1\72e3f78aca6f02365f88bb6cb7ec42b3\lifecycle-process-2.2.0-rc02\AndroidManifest.xml:25:9-29:43
 	android:authorities

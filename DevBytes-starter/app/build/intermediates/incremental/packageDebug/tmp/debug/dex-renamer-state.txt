@@ -1,4 +1,7 @@
-#Mon Nov 11 11:57:40 COT 2019
-base.0=C\:\\Users\\Kervin\\android-kotlin-fundamentals-starter-apps-master\\DevBytes-starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Mon Nov 11 18:35:50 COT 2019
+base.0=C\:\\Users\\Kervin\\codelabsProyectsKotlin\\DevBytes-starter\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=C\:\\Users\\Kervin\\codelabsProyectsKotlin\\DevBytes-starter\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

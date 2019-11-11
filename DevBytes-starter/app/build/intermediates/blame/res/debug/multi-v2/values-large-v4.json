@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Kervin\\android-kotlin-fundamentals-starter-apps-master\\DevBytes-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Users\\Kervin\\codelabsProyectsKotlin\\DevBytes-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kervin\\.gradle\\caches\\transforms-2\\files-2.1\\94681c21c7a53b26c222a3b57b2f776b\\material-1.0.0\\res\\values-large-v4\\values-large-v4.xml",
